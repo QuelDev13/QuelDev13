@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋Olá meu nome é Raquel, sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira da área de pets pra área da tecnologia. 
+<h1 align="center">👋Olá meu nome é Raquel, sou estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira da área de pets pra área da tecnologia. 
  Uma mudança e tanto. 
 Também estudo por fora, cursos livres e bootcamps.</h1>
 
