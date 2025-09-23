@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋 Olá, sou Raquel Rodrigues! Sou estudante de programação, atualmente estudo pela Oracle Next Education em parceria com Alura Latam. Estou aprendendo Lógica de Programação, HTML, CSS e Javascript.</h2>
+<h2 align="left">Hi 👋 Olá, sou Raquel Rodrigues! Sou estudante de Análise de Desenvolvimento de Sistemas, estou fazendo transição de carreira da área de pets pra programação.
+ Estudo por fora também em cursos livres e bootcamps.</h2>
 
 ###
 
@@ -22,5 +23,11 @@
   <img width="12" />
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuelDev13/QuelDev13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuelDev13/QuelDev13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/QuelDev13/QuelDev13/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
